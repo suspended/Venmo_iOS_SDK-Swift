@@ -1,4 +1,4 @@
-## Venmo iOS SDK
+## Venmo iOS SDK for Swift 2.1/Xcode 7
 
 [![Build Status](https://travis-ci.org/venmo/venmo-ios-sdk.svg?branch=v2)](https://travis-ci.org/venmo/venmo-ios-sdk)
 
